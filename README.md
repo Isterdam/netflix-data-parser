@@ -21,4 +21,4 @@ and automatically visualized them in a graph. These were the results:
 <img src="https://github.com/Isterdam/netflix-data-parser/blob/master/project/5.png" width="300" />
 </p>
 
-The full report is available in the _project_ directory, albeit in Swedish.
+The full report is available [here](https://github.com/Isterdam/netflix-data-parser/blob/master/project/EITF45_Projekt.pdf), albeit in Swedish.
